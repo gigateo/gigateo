@@ -2,7 +2,7 @@
 Bacharel em sistemas de informação; especialista em análise de sistemas e banco de dados. 
 
 Cursei a formação: **Cientista de dados** da empresa Data Science Academy e atualmente estou cursando a formação [Python Para Data Science](https://www.datascienceacademy.com.br/bundle/formacao-linguagem-python-4) também pela DSA.
-- Dentre as tecnologias que fazem parte do meu dia-a-dia, as principais são:
+- Dentre as tecnologias que fazem parte do meu dia a dia, as principais são:
 
 <div>
           <img src="https://img.shields.io/static/v1?label=python&message=Data%20Analytics&color=darkgreen&style=for-the-badge&logo=python"/>
