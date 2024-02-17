@@ -21,3 +21,5 @@ Ingressei no Poder Judiciário em **janeiro de 2006** como técnico judiciário 
 Acredito na democratização de dados e que através da participação da nossa sociedade podemos continuar caminhando rumo ao Judiciário Data Driven.
 
 ##
+
+Contato através do E-mail [Téo Soeiro](mailto:gigateo@hotmail.com)
