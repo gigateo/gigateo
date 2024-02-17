@@ -11,6 +11,7 @@ Cursei a formação: **Cientista de dados** da empresa Data Science Academy e at
           <img src="https://img.shields.io/static/v1?label=excel&message=Advanced%20User&color=green&style=for-the-badge&logo=microsoft%20excel" />
           <img src="https://img.shields.io/static/v1?label=Power%20BI&message=DAX&color=yellow&style=for-the-badge&logo=power%20bi" />
           <img src="https://img.shields.io/static/v1?label=FreeBSD&message=System%20Engineer&color=red&style=for-the-badge&logo=freebsd" />   
+          <img src="https://img.shields.io/static/v1?label=BASH&message=Shell%20Script&color=blue&style=for-the-badge&logo=GNU%20bash" />
 </div>
 
 ##
