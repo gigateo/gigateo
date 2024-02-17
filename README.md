@@ -5,7 +5,7 @@ Cursei a formação: **Cientista de dados** da empresa Data Science Academy e at
 - Dentre as tecnologias que fazem parte do meu dia-a-dia, as principais são:
 
 <div>
-          <img src="https://img.shields.io/static/v1?label=python&message=Data%20Analytics&color=green&style=for-the-badge&logo=python"/>
+          <img src="https://img.shields.io/static/v1?label=python&message=Data%20Analytics&color=darkgreen&style=for-the-badge&logo=python"/>
           <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=DML&color=purple&style=for-the-badge&logo=postgresql" />
           <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=PlpgSQL&color=orange&style=for-the-badge&logo=postgresql" />
           <img src="https://img.shields.io/static/v1?label=excel&message=Advanced%20User&color=green&style=for-the-badge&logo=microsoft%20excel" />
