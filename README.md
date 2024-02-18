@@ -22,4 +22,6 @@ Acredito na democratização de dados e que através da participação da nossa 
 
 ##
 
-Contato através do E-mail [Téo Soeiro](mailto:gigateo@hotmail.com)
+Para contato através de E-mail, clique no Badge abaixo:
+
+[![Téo Soeiro](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gigateo@hotmail.com)
