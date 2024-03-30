@@ -11,11 +11,53 @@ body {
     line-height: 1.6;
 }
 
+
+
 .container {
     max-width: 960px;
     margin: 0 auto;
     padding: 0 20px;
 }
+
+.kenburns-bottom-left {
+	-webkit-animation: kenburns-bottom-left 5s ease-out infinite alternate-reverse backwards;
+	        animation: kenburns-bottom-left 5s ease-out infinite alternate-reverse backwards;
+}
+
+@-webkit-keyframes kenburns-bottom-left {
+  0% {
+    -webkit-transform: scale(1) translate(0, 0);
+            transform: scale(1) translate(0, 0);
+    -webkit-transform-origin: 16% 84%;
+            transform-origin: 16% 84%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translate(-20px, 15px);
+            transform: scale(1.25) translate(-20px, 15px);
+    -webkit-transform-origin: left bottom;
+            transform-origin: left bottom;
+  }
+}
+@keyframes kenburns-bottom-left {
+  0% {
+    -webkit-transform: scale(1) translate(0, 0);
+            transform: scale(1) translate(0, 0);
+    -webkit-transform-origin: 16% 84%;
+            transform-origin: 16% 84%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translate(-20px, 15px);
+            transform: scale(1.25) translate(-20px, 15px);
+    -webkit-transform-origin: left bottom;
+            transform-origin: left bottom;
+  }
+}
+
+
+body.kenburns-bottom-left {
+  background: url("https://www.zdnet.com/a/img/resize/816da22fbfe279a4f19cadd7fff83a7f6023c725/2021/09/02/f9723f89-2e71-4a46-a59f-f6838771f2ed/python-code-magnifying-glass-programming-language.jpg?auto=webp&width=1280") no-repeat right top fixed;
+}
+
 
 header {
     background-color: #333;
