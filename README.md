@@ -1,7 +1,7 @@
 # Um cientista de dados em constante aprimoramento
 Bacharel em sistemas de informação; especialista em análise de sistemas e banco de dados. 
 
-Cursei a formação: **Cientista de dados** da empresa Data Science Academy e atualmente estou cursando a formação [Python Para Data Science](https://www.datascienceacademy.com.br/bundle/formacao-linguagem-python-4) também pela DSA.
+Conclui as formações: **Cientista de dados** da empresa Data Science Academy,  [Python Para Data Science](https://www.datascienceacademy.com.br/bundle/formacao-linguagem-python-4) e [Engenheiro de inteligência Artificial](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-inteligencia-artificial-4) também pela DSA.
 - Dentre as tecnologias que fazem parte do meu dia a dia, as principais são:
 
 <div>
@@ -10,6 +10,7 @@ Cursei a formação: **Cientista de dados** da empresa Data Science Academy e at
           <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=PlpgSQL&color=orange&style=for-the-badge&logo=postgresql" />
           <img src="https://img.shields.io/static/v1?label=excel&message=Advanced%20User&color=green&style=for-the-badge&logo=microsoft%20excel" />
           <img src="https://img.shields.io/static/v1?label=Power%20BI&message=DAX&color=yellow&style=for-the-badge&logo=power%20bi" />
+          <img src="https://img.shields.io/static/v1?label=Streamlit&message=Streamlit&color=darkred&style=for-the-badge&logo=Streamlit" />
           <img src="https://img.shields.io/static/v1?label=Plotly&message=Dash&color=magenta&style=for-the-badge&logo=Plotly" />   
           <img src="https://img.shields.io/static/v1?label=BASH&message=Shell%20Script&color=blue&style=for-the-badge&logo=GNU%20bash" />
 </div>
