@@ -2,6 +2,13 @@
 Bacharel em sistemas de informação; especialista em análise de sistemas e banco de dados. 
 
 Conclui as formações: **Cientista de dados** da empresa Data Science Academy,  [Python Para Data Science](https://www.datascienceacademy.com.br/bundle/formacao-linguagem-python-4) e [Engenheiro de inteligência Artificial](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-inteligencia-artificial-4) também pela DSA.
+
+Após as formações, realizei duas provas de certificação também pela empresa Data Science Academy, obtendo aprovação em ambas, conforme mostrado abaixo:
+
+<img src="https://github.com/user-attachments/assets/432a814d-4f10-4027-a6de-886ca8baf391" alt="Certificação DSCP" width="400">
+<img src="https://github.com/user-attachments/assets/66b50092-10fc-41ea-9dbd-87064cebe955" alt="Certificação AIECP" width="400">
+
+
 - Dentre as tecnologias que fazem parte do meu dia a dia, as principais são:
 
 <div>
